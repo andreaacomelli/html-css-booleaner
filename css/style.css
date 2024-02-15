@@ -1,0 +1,11 @@
+.page-header{
+  background-color: lightblue;
+
+}
+thead{
+  background-color: blue;
+}
+th{
+  text-align: left;
+  color: white;
+}
