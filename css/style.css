@@ -1,11 +1,43 @@
+
+html{
+  align-content: center;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
 .page-header{
   background-color: lightblue;
-
+  background-image: url('/img/pattern.png');
+  background-repeat: repeat-x;
 }
+
+.img-header{
+  width: 20%;
+  height: auto;
+  align-items: center;
+}
+
+em{
+  font-style: normal;
+  color: blue;
+}
+
 thead{
   background-color: blue;
 }
+
 th{
   text-align: left;
   color: white;
+}
+
+footer{
+  background-color: blue;
+  size: 15%;
+  text-align: center;
+  
+}
+
+.p-footer{
+  color:white
 }
