@@ -17,13 +17,17 @@ html{
   align-items: center;
 }
 
+.p-main{
+  font-size: small;
+}
+
 em{
   font-style: normal;
   color: blue;
 }
 
 thead{
-  background-color: blue;
+  background-color: rgb(57, 163, 199);
 }
 
 th{
@@ -31,11 +35,25 @@ th{
   color: white;
 }
 
+table{
+  border: 1px ;
+  width: 100%;
+  margin-bottom: 2%;
+}
+
+.tbody-1{
+  background-color: rgb(210, 200, 200);
+}
+
+.tbody-3{
+  background-color: rgb(210, 200, 200);
+}
+
 footer{
-  background-color: blue;
-  size: 15%;
+  height: 20%;
+  background-color: rgba(55, 55, 136, 0.722);
   text-align: center;
-  
+  padding: 2px;
 }
 
 .p-footer{
